@@ -12,7 +12,7 @@ I am a Computer Science Engineering graduate and currently an MSc student in Art
 ### 🔬 Academic & Minor Projects
 - **[Optimal Transport Routing (C)](https://github.com/marco-caste/optimal-transport-routing-c):** Final project for Algorithms and Data Structures. Implemented an optimal pathfinding system on a dynamic hexagonal grid. Built a custom Min-Heap and Dijkstra-based search to calculate the cheapest travel costs handling dynamic node updates and air routes.
 - **VHDL Task Scheduler [Private Repository until 31 Dec 2026]:** Hardware design project for Logic Networks (Reti Logiche), implementing a finite state machine (FSM) to manage, sort, and schedule priority tasks in memory.
-- **[Public Transport Digital Signage](INSERISCI_LINK_QUI):** Front-end web dashboard developed in HTML and JavaScript to simulate a real-time smart monitor for public transit, handling asynchronous DOM updates and multimedia synchronization.
+- **[Lille Metro Digital Signage](https://github.com/marco-caste/lille-metro-digital-signage):** Front-end interfaces developed during an internship at Aesys S.p.A. Built vanilla HTML/JS smart monitors for public transit (on-board and stationary), handling asynchronous DOM updates, multimedia synchronization, and emergency UI states.
 
 ### 📫 Let's connect
 - [LinkedIn](https://www.linkedin.com/in/marco-castellani-013a14366/)
