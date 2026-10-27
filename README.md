@@ -11,7 +11,7 @@ I am a Computer Science Engineering graduate and currently an MSc student in Art
 
 ### 🔬 Academic & Minor Projects
 - **[Optimal Transport Routing (C)](https://github.com/marco-caste/optimal-transport-routing-c):** Final project for Algorithms and Data Structures. Implemented an optimal pathfinding system on a dynamic hexagonal grid. Built a custom Min-Heap and Dijkstra-based search to calculate the cheapest travel costs handling dynamic node updates and air routes.
-- **[VHDL Task Scheduler](INSERISCI_LINK_QUI):** Hardware design project for Logic Networks (Reti Logiche), implementing a finite state machine (FSM) to manage, sort, and schedule priority tasks in memory.
+- **VHDL Task Scheduler [Private Repository until 31 Dec 2026]:** Hardware design project for Logic Networks (Reti Logiche), implementing a finite state machine (FSM) to manage, sort, and schedule priority tasks in memory.
 - **[Public Transport Digital Signage](INSERISCI_LINK_QUI):** Front-end web dashboard developed in HTML and JavaScript to simulate a real-time smart monitor for public transit, handling asynchronous DOM updates and multimedia synchronization.
 
 ### 📫 Let's connect
